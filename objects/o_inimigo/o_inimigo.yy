@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_Urso",
+  "name": "o_inimigo",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -32,12 +32,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "s_Urso_parado",
-    "path": "sprites/s_Urso_parado/s_Urso_parado.yy",
+    "name": "s_inimigo_idle",
+    "path": "sprites/s_inimigo_idle/s_inimigo_idle.yy",
   },
   "spriteMaskId": {
-    "name": "s_Urso_andando",
-    "path": "sprites/s_Urso_andando/s_Urso_andando.yy",
+    "name": "s_inimigo_idle",
+    "path": "sprites/s_inimigo_idle/s_inimigo_idle.yy",
   },
   "visible": true,
 }
