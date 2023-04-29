@@ -68,6 +68,7 @@
     {"id":{"name":"o_Urso","path":"objects/o_Urso/o_Urso.yy",},},
     {"id":{"name":"sRei_rato","path":"sprites/sRei_rato/sRei_rato.yy",},},
     {"id":{"name":"o_grama","path":"objects/o_grama/o_grama.yy",},},
+    {"id":{"name":"o_inimigo","path":"objects/o_inimigo/o_inimigo.yy",},},
     {"id":{"name":"s_Urso_atacando","path":"sprites/s_Urso_atacando/s_Urso_atacando.yy",},},
     {"id":{"name":"s_Urso_andando","path":"sprites/s_Urso_andando/s_Urso_andando.yy",},},
     {"id":{"name":"sLamina","path":"sprites/sLamina/sLamina.yy",},},
@@ -75,7 +76,6 @@
     {"id":{"name":"s_Solo3","path":"sprites/s_Solo3/s_Solo3.yy",},},
     {"id":{"name":"scr_personagem","path":"scripts/scr_personagem/scr_personagem.yy",},},
     {"id":{"name":"s_grama","path":"sprites/s_grama/s_grama.yy",},},
-    {"id":{"name":"o_inimigo","path":"objects/o_inimigo/o_inimigo.yy",},},
     {"id":{"name":"s_Playerb_andando","path":"sprites/s_Playerb_andando/s_Playerb_andando.yy",},},
     {"id":{"name":"o_Plataforma","path":"objects/o_Plataforma/o_Plataforma.yy",},},
     {"id":{"name":"o_Parede_invisivel","path":"objects/o_Parede_invisivel/o_Parede_invisivel.yy",},},
@@ -86,8 +86,8 @@
     {"id":{"name":"s_background2","path":"sprites/s_background2/s_background2.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
