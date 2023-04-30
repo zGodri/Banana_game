@@ -5,6 +5,7 @@
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -36,8 +37,8 @@
     "path": "sprites/s_Urso_parado/s_Urso_parado.yy",
   },
   "spriteMaskId": {
-    "name": "s_Urso_andando",
-    "path": "sprites/s_Urso_andando/s_Urso_andando.yy",
+    "name": "s_Urso_parado",
+    "path": "sprites/s_Urso_parado/s_Urso_parado.yy",
   },
   "visible": true,
 }
