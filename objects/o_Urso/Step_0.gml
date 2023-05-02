@@ -42,14 +42,14 @@ if place_meeting (x+spd, y, o_Piso)
 // andando para a direita
 if direc == 0
 {
-	image_xscale = 1.5;
+	image_xscale = 1.3;
 	sprite_index = s_Urso_andando;
 	x += spd
 }
 // andando para a esquerda
 else if direc == 1
 {
-	image_xscale = -1.5;
+	image_xscale = -1.3;
 	sprite_index = s_Urso_andando;
 	x -= spd;
 }

@@ -26,9 +26,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "s_Piso",
-    "path": "sprites/s_Piso/s_Piso.yy",
+    "name": "s_piso",
+    "path": "sprites/s_piso/s_piso.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
