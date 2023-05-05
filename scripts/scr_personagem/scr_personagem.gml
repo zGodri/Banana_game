@@ -14,7 +14,7 @@ function scr_personagem_movendo(){
 	{
 		if cima
 		{
-			vspd = -3;
+			vspd = -2.5;
 		}
 	}
 	#endregion
