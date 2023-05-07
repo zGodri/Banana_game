@@ -48,8 +48,8 @@
   },
   "origin": 4,
   "parent": {
-    "name": "Bananinha feliz",
-    "path": "Bananinha feliz.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

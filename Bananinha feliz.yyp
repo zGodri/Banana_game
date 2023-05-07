@@ -59,7 +59,6 @@
     {"id":{"name":"o_moeda","path":"objects/o_moeda/o_moeda.yy",},},
     {"id":{"name":"s_inimigo_ataque","path":"sprites/s_inimigo_ataque/s_inimigo_ataque.yy",},},
     {"id":{"name":"s_menu","path":"sprites/s_menu/s_menu.yy",},},
-    {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
     {"id":{"name":"o_Pitaia","path":"objects/o_Pitaia/o_Pitaia.yy",},},
     {"id":{"name":"s_piso","path":"sprites/s_piso/s_piso.yy",},},
     {"id":{"name":"o_Urso","path":"objects/o_Urso/o_Urso.yy",},},
